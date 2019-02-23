@@ -5,6 +5,7 @@
 ##### https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5
 ### 将权重放入weights文件夹，运行main.py
 ### Demo:
+|<img src="images/C_1.jpg" height="320" width="480" >|<img src="images/S_1.jpg" height="320" width="480" >|<img src="outputs/G_20_C_1_S_1.jpg" height="320" width="480" >
 <figure align="third">
   <img src="images/C_1.jpg" height="320" width="480" >
   <img src="images/S_1.jpg" height="320" width="480" >
