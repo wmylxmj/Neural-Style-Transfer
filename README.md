@@ -5,9 +5,7 @@
 ##### https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5
 ### 将权重放入weights文件夹，运行main.py
 ### Demo:
-![](./images/C_1.jpg)
-![](./images/S_1.jpg)
-![](./outputs/G_20_C_1_S_1.jpg)
+![](./images/C_1.jpg) + ![](./images/S_1.jpg) = ![](./outputs/G_20_C_1_S_1.jpg)
 ![](./images/C_2.jpg)
 ![](./images/S_2.jpg)
 ![](./outputs/G_20_C_2_S_2.jpg)
