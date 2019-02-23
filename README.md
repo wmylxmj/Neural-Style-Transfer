@@ -6,9 +6,9 @@
 ### 将权重放入weights文件夹，运行main.py
 ### Demo:
 <figure align="third">
-  <img src="images/C_1.jpg" height="320" width="480" >
-  <img src="images/S_1.jpg" height="320" width="480" >
-  <img src="outputs/G_20_C_1_S_1.jpg" height="320" width="480" >
+  <img src="images/C_1.jpg" height="160" width="240" >
+  <img src="images/S_1.jpg" height="160" width="240" >
+  <img src="outputs/G_20_C_1_S_1.jpg" height="160" width="240" >
 </figure>
 <figure align="third">
   <img src="images/C_2.jpg" height="320" width="480" >
